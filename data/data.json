@@ -1,0 +1,155 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "30.246405",
+               "-97.761356"
+            ]
+         },
+         "properties":{
+            "offense_code":"13A",
+            "offense_type":"aggravated assault",
+            "date":"2019-01-01 00:00"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "30.275679",
+               "-97.757587"
+            ]
+         },
+         "properties":{
+            "offense_code":"90Z",
+            "offense_type":"all other offenses",
+            "date":"2019-01-01 00:00"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "30.46042",
+               "-97.801735"
+            ]
+         },
+         "properties":{
+            "offense_code":"90Z",
+            "offense_type":"all other offenses",
+            "date":"2019-01-01 00:00"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "30.369063",
+               "-97.727219"
+            ]
+         },
+         "properties":{
+            "offense_code":"23F",
+            "offense_type":"theft from motor vehicle (except theft of motor vehicle parts or accessories)",
+            "date":"2019-01-01 00:00"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "30.476365",
+               "-97.785007"
+            ]
+         },
+         "properties":{
+            "offense_code":"23H",
+            "offense_type":"all other larceny",
+            "date":"2019-01-01 00:00"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "30.173605",
+               "-97.804725"
+            ]
+         },
+         "properties":{
+            "offense_code":"90Z",
+            "offense_type":"all other offenses",
+            "date":"2019-01-01 00:00"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "30.28922",
+               "-97.720552"
+            ]
+         },
+         "properties":{
+            "offense_code":"290",
+            "offense_type":"destruction/damage/vandalism of property (except arson)",
+            "date":"2019-01-01 00:00"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "30.221515",
+               "-97.761059"
+            ]
+         },
+         "properties":{
+            "offense_code":"23H",
+            "offense_type":"all other larceny",
+            "date":"2019-01-01 00:00"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "30.266567",
+               "-97.745464"
+            ]
+         },
+         "properties":{
+            "offense_code":"23H",
+            "offense_type":"all other larceny",
+            "date":"2019-01-01 00:00"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               "30.377155",
+               "-97.680643"
+            ]
+         },
+         "properties":{
+            "offense_code":"90Z",
+            "offense_type":"all other offenses",
+            "date":"2019-01-01 00:00"
+         }
+      }
+   ]
+}

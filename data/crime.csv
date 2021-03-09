@@ -1,0 +1,3 @@
+uid,city_name,offense_code,offense_type,offense_group,offense_against,date_single,longitude,latitude,location_type,location_category,census_block,date_start,date_end
+1267155,Austin,13A,aggravated assault,assault offenses,persons,2019-01-01 00:00,-97.761356,30.246405,residence,residence,484530013052017,,
+1267156,Austin,90Z,all other offenses,all other offenses,other,2019-01-01 00:00,-97.757587,30.275679,residence,residence,484530012003005,,
