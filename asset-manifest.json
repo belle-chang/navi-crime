@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/navi-crime/static/css/main.7877d4b5.chunk.css",
+    "main.js": "/navi-crime/static/js/main.7f2fe980.chunk.js",
+    "main.js.map": "/navi-crime/static/js/main.7f2fe980.chunk.js.map",
+    "runtime-main.js": "/navi-crime/static/js/runtime-main.87155076.js",
+    "runtime-main.js.map": "/navi-crime/static/js/runtime-main.87155076.js.map",
+    "static/js/2.025ab56f.chunk.js": "/navi-crime/static/js/2.025ab56f.chunk.js",
+    "static/js/2.025ab56f.chunk.js.map": "/navi-crime/static/js/2.025ab56f.chunk.js.map",
+    "static/js/3.cb8c469d.chunk.js": "/navi-crime/static/js/3.cb8c469d.chunk.js",
+    "static/js/3.cb8c469d.chunk.js.map": "/navi-crime/static/js/3.cb8c469d.chunk.js.map",
+    "index.html": "/navi-crime/index.html",
+    "static/css/main.7877d4b5.chunk.css.map": "/navi-crime/static/css/main.7877d4b5.chunk.css.map",
+    "static/js/2.025ab56f.chunk.js.LICENSE.txt": "/navi-crime/static/js/2.025ab56f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/navi-crime/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87155076.js",
+    "static/js/2.025ab56f.chunk.js",
+    "static/css/main.7877d4b5.chunk.css",
+    "static/js/main.7f2fe980.chunk.js"
+  ]
+}
